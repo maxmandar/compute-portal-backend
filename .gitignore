@@ -1,0 +1,15 @@
+# Ignore database files
+# db.sqlite3
+# *.pyc
+
+# Ignore static files
+# staticfiles/
+# media/
+
+# Ignore local settings
+# local_settings.py
+
+# Ignore the virtual environment
+venv/
+venv_v1/
+db_backups/
